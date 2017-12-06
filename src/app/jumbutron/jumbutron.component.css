@@ -1,0 +1,9 @@
+.product_photo{
+    padding:20px;
+    width: 500px;
+    height: 200px;
+}
+
+#myCarousel{
+    height: 500px !important;
+}
